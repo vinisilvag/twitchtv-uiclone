@@ -1,4 +1,4 @@
-# UI Clone - Twitch App
+# UI Clone (Mobile) - Twitch App
 Repository for keeping the code of a clone of the Twitch interface.
 
 ## Techs
